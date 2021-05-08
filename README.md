@@ -17,7 +17,7 @@ You can then proceed to installing the Wu Compiler through the Github repository
 ```
 $ git clone https://github.com/wu-lang/wu
 $ cd wu/
-$ cargo install
+$ cargo install --path .
 ```
 
 Now, you should see something along the lines of the following, when running the compiler.
